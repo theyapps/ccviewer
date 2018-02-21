@@ -1,0 +1,1 @@
+This is a little toy project of mine to create a cctv style viewer for zoneminer. It runs full screen and was created for running on a touch screen raspberrypi but can be adapted for other uses. I used vlcj for video streaming instead of getting images from zoneminder for performance reasons. 
